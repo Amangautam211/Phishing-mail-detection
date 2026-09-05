@@ -10,7 +10,7 @@ A machine learning model built with **Scikit-learn** that classifies emails as
 | `generate_dataset.py` | Creates the training dataset (`data/emails_dataset.csv`) |
 | `phishing_detector.py` | Trains the model and evaluates accuracy |
 | `check_my_email.py` | Paste any email text and check if it's phishing or safe |
-| `data/emails_dataset.csv` | Training data (360 emails: 180 phishing, 180 safe) |
+| `data/emails_dataset.csv` | Training data (360 emails: 180 phishing, 180 safe) Create subfolder |
 | `confusion_matrix.png` | Model performance visualization |
 
 ## How to Run
