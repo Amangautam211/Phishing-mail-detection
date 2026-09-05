@@ -15,48 +15,7 @@ from phishing_detector import main, predict_email
 
 # 👇 Paste Your Mail Here
 MY_EMAIL_TEXT = """
-Dear Students,
-
-YBI Foundation / Skills4India is urgently hiring for the following position:
-
-Technical Content Creator & Student Community Executive
-
-The role involves technical content creation, teaching assistance, student mentoring, blogs, cheat sheets and S4I Club management.
-
-Who can apply?
-
-2025 and 2026 B.Tech/B.E. graduates
-
-CSE, IT, AI/ML, Data Science, ECE or related branches
-
-Freshers—no previous work experience required
-
-Candidates currently residing in Delhi
-
-Job Details
-
-Work from office: West Delhi – 110018
-
-Timings: 10:00 AM–7:00 PM
-
-CTC: ₹2.70–₹3.60 LPA
-
-Immediate joining preferred
-
-Apply by: 19 September 2026
-
-Interested candidates should immediately email their updated resume to support@ybifoundation.com with the subject:
-
-Application – Technical Content Creator & Student Community Executive
-
-YBI hiring for Delhi.png
-For queries, call or WhatsApp 9667987711.
-
-Apply now if you are interested in building your career in EdTech, technical content and student mentoring.
-
-Regards,
-
-
+Enter Your Email/Paste
 """
 
 if __name__ == "__main__":
